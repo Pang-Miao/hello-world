@@ -1,4 +1,7 @@
 # hello-world
-my first github
-heiheihei
-diyicigenggai
+#include stdio.h
+int main()
+{
+print(helloworld)
+}
+
